@@ -1,1 +1,1 @@
-D:\MyIntelliJIDEA\KelasKotlin2\build\classes\kotlin\main\ConditionalKt.class;D:\MyIntelliJIDEA\KelasKotlin2\build\classes\kotlin\main\DataTypeKt.class;D:\MyIntelliJIDEA\KelasKotlin2\build\classes\kotlin\main\MainKt.class;D:\MyIntelliJIDEA\KelasKotlin2\build\classes\kotlin\main\OperationKt.class
+D:\MyIntelliJIDEA\KelasKotlin2\build\classes\kotlin\main\LatihanKt.class
