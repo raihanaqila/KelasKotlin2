@@ -25,7 +25,7 @@ fun main()
     else
     {
         biayaParkir3 = (lamaParkir/24).toFloat()
-        biayaParkir2 = (biayaParkir3*15).toFloat()
+        biayaParkir2 = (lamaParkir%24).toFloat()
         biayaParkir = (biayaParkir3*maxTarifPerHari).toFloat()+(tarifBerikutnya.toFloat()*biayaParkir2)
     }
 
